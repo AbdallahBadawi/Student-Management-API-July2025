@@ -17,6 +17,8 @@ Implements CRUD operations with a structured multi-layered approach (UI, BLL, DA
 - Uses Data Transfer Objects (DTO)
 - Structured using OOP and separation of concerns
 
+![ApiCRUD](images/4.png)
+
 ---
 
 ## 🚀 Getting Started
