@@ -29,7 +29,7 @@ Implements CRUD operations with a structured multi-layered approach (UI, BLL, DA
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 **Abdallah Badawi**  
 - Email: eng.abdallah.k.badawi@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/abdullah-badawi/)
