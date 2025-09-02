@@ -21,11 +21,19 @@ Implements CRUD operations with a structured multi-layered approach (UI, BLL, DA
 
 ---
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Open the solution in Visual Studio
-3. Configure your SQL Server connection string
-4. Run the application and test the endpoints via Postman or Swagger
+## 📥 Download and Install Project
+### 1. Clone the repository
+### 2. Restore the Database
+1. Open SQL Server Management Studio
+2. Write this command:
+```bash
+RESTORE DATABASE StudentsDB
+FROM DISK = 'C:\Student-Management-API-July2025-main\StudentsDB.bak'
+--OR: Write where the backup copy is located in your computer
+```
+### 3. Open the solution in Visual Studio
+### 4. Configure the SQL Server connection string
+### 5. Build and run the application
 
 ---
 
