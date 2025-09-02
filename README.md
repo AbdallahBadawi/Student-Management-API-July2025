@@ -29,7 +29,7 @@ Implements CRUD operations with a structured multi-layered approach (UI, BLL, DA
 ```bash
 RESTORE DATABASE StudentsDB
 FROM DISK = 'C:\Student-Management-API-July2025-main\StudentsDB.bak'
---OR: Write where the backup copy is located in your computer
+--OR: Write where the backup copy is located in your computer..
 ```
 ### 3. Open the solution in Visual Studio
 ### 4. Configure the SQL Server connection string
